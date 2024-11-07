@@ -1,4 +1,4 @@
-# CefrWords
+# CEFR Levels Words
 
 A gem that provides English vocabulary lists organized by CEFR levels.
 
